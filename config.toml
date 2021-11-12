@@ -1,0 +1,74 @@
+baseURL = "https://www.lastation-lgbti.eu/"
+languageCode = "fr-fr"
+title = "La Station LGBTI"
+themesDir = "themes"
+theme = "hugo-serif-theme"
+
+[params]
+  # In most cases you will only want to use either one of these. If you have Google Analytics included in your GTM tags don't put your GA ID here. Otherwise your data might be useless.
+  google_analytics_id = ""
+  google_tag_manager_id = ""
+
+  [params.logo]
+    mobile = "images/logo.jpg"
+    standard  = "images/logo.jpg"
+    alt = "La Station LGBTI"
+
+  [params.homepage_meta_tags]
+    meta_description = "Centre Lesbien Gay Bi Trans Intersexe"
+    meta_og_title = "La Station LGBTI"
+    meta_og_type = "website"
+    meta_og_url = "https://www.lastation-lgbti.eu"
+    meta_og_image = "https://new.lastation-lgbti.eu/images/logo.jpg"
+    meta_og_description = "Centre Lesbien Gay Bi Trans Intersexe"
+    meta_twitter_card = "summary"
+    meta_twitter_site = "@LaStation_LGBTI"
+    meta_twitter_creator = "@LaStation_LGBTI"
+
+[menu]
+  # Main Menu
+  [[menu.main]]
+    name = "Accueil"
+	url = '/'
+	weight = 1
+
+  [[menu.main]]
+    name = "L'association"
+    url = "/association/"
+      weight = 2
+
+  [[menu.main]]
+      name = "Adhérer"
+      url = "/adherer/"
+      weight = 3
+
+  [[menu.main]]
+  	  name = "Les permanences"
+	  url = "/services/"
+	  weight = 4
+
+  [[menu.main]]
+  	  name = "Partenaires"
+	  url = "/partenaires/"
+	  weight = 5
+
+  # Footer Menu
+  [[menu.footer]]
+    name = "Accueil"
+    url = "/"
+      weight = 1
+
+  [[menu.footer]]
+    name = "Facebook"
+    url = "https://www.facebook.com/lastation.lgbti/"
+      weight = 2
+
+  [[menu.footer]]
+    name = "Mobilizon"
+	url = "https://keskonfai.fr/@la_station_lgbti_strasbourg"
+	  weight = 3
+
+  [[menu.footer]]
+    name = "Instagram"
+	url = "https://www.instagram.com/la_station_lgbti/"
+	  weight = 4

@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Accueil de jour",
+    "description": "Pour travailler, se détendre, se réchauffer, se rencontrer.",
+    "image": "images/features/noun_Couch_350424.svg"
+  },
+  {
+    "title": "Médiathèque",
+    "description": "Toustes nos adhérent⋅e⋅s peuvent emprunter les ouvrages de [notre médiathèque](https://mediatheque.lastation-lgbti.eu).",
+    "image": "images/features/noun_Library_1122469.svg"
+  },
+  {
+    "title": "Café associatif",
+    "description": "Venez profiter d'une ambiance chaleureuse pour boire un thé ou un café dans notre café associatif : La Pensée Queer.",
+    "image": "images/features/noun_Tea_1923034.svg"
+  }
+]

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Permanences on La Station LGBTI</title>
+    <link>https://www.lastation-lgbti.eu/services/</link>
+    <description>Recent content in Permanences on La Station LGBTI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language><atom:link href="https://www.lastation-lgbti.eu/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pôle Juridique - Demande d&#39;asile</title>
+      <link>https://www.lastation-lgbti.eu/services/conseil-juridique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lastation-lgbti.eu/services/conseil-juridique/</guid>
+      <description>Chaque premier samedi du mois de 13h à 16h et sur rendez-vous.
+La Station accueille les personnes migrantes LGBTI qui souhaitent obtenir l&amp;rsquo;asile en France et qui ont besoin d&amp;rsquo;être accompagné.e.s dans leurs démarches administratives (OFPRA et CNDA), ou qui souhaitent simplement rencontrer d&amp;rsquo;autres personnes à Strasbourg.
+La Station welcomes lesbian, gay, bisexual, transgender and intersex immigrants who wish to seek asylum in France. We offer legal advice on the asylum procedure (OFPRA and CNDA).</description>
+    </item>
+    
+    <item>
+      <title>Écoute</title>
+      <link>https://www.lastation-lgbti.eu/services/ecoute/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lastation-lgbti.eu/services/ecoute/</guid>
+      <description>Jeudi, de 17h à 19h et sur rendez-vous.
+Hortense, Gérard et Jean, nos écoutant⋅e⋅s vous proposent des temps d’écoute pour vous offrir la possibilité de parler sereinement en entretien particulier et confidentiel sans crainte du jugement.</description>
+    </item>
+    
+  </channel>
+</rss>
