@@ -5,7 +5,7 @@ featured: true
 weight: 2
 ---
 
-Chaque premier samedi du mois de 13h à 16h et sur rendez-vous.
+Chaque premier samedi du mois de 14h à 16h et sur rendez-vous.
 
 ![](/images/undraw_judge_katerina_limpitsouni_ny1q.svg)
 
