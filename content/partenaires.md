@@ -9,26 +9,22 @@ date: 2019-11-28T17:12:57+01:00
 | ----- | -------  |
 | [AIDES](https://www.facebook.com/aidesalsace) | Première association française de lutte contre le sida. |
 | [Alsarando](http://www.alsarando.fr/) | Association gay et lesbienne de randonnée pédestre. |
+| [Amnesty International France](https://www.amnesty.fr/pres-de-chez-vous?address=67000) | Organisation internationale de défense des droits humains |
+| [Antenne Inclusive Saint-Guillaume](https://www.facebook.com/antenneinclusive) | Créée en 2016, l'Antenne inclusive, ancrée dans la paroisse Saint Guillaume à Strasbourg, propose des temps forts autour des questions LGBTI (conférences, formations), ainsi que des temps de prière, de réflexion et de convivialité. |
 | [AGPL](https://www.apgl.fr/antennes/item/533-grand-est) | Association des Parents et Futurs parents Gays et Lesbiens. |
 | [ARCTS](https://arcts.fr/) | Amicale Radical des Cafés Trans de Strasbourg |
-| [Autre Cercle](http://www.autrecercle.org/region/alsace) | Association d'homosexuels et d'homosexuelles luttant contre les discriminations, en particulier dans le monde du travail. |
-| [Autre regard](http://www.gaymulhouse.fr/) | Association pour les gays, les lesbiennes et ceux qui les entourent. |
-| [Couleurs Gaies](http://www.couleursgaies.org/) | Centre LGBT Lorraine Nord (Metz). |
-| [David et Jonathan](https://www.davidetjonathan.com/les-groupes-locaux/groupe-de-strasbourg/) | Mouvement homosexuel chrétien, ouvert à toutes et tous. |
-| [SOGI Sexual Orientation and Gender Identity Unit](http://www.coe.int/t/dg4/lgbt/default_fr.asp) | Section LGBT du Conseil de l'Europe. |
-| [ENIPSE](http://www.enipse.fr/) | Equipe Nationale d’Intervention en Prévention et Santé pour les Entreprises |
+| [COREVIH](https://www.corevih-grandest.fr/) | Coordination Régionale de lutte contre le Virus de l'Immunodéficience Humaine. Le COREVIH est une coordination de tous les acteurs de la lutte contre le SIDA qui assurent collectivement en région la prise en charge des personnes séropositives et la lutte contre l'infection à VIH en général. |
+| [David et Jonathan](https://www.davidetjonathan.com/groupe-de-strasbourg/) | Mouvement homosexuel chrétien, ouvert à toutes et tous. |
 | [Festibad](http://festibad.org/) | Association de badminton LGBT, organise son tournoi annuel ouvert à tou-te-s pendant la semaine des Visibilités. |
 | [Festigays](http://www.festigays.net/) | Collectif LGBT organisant la Marche et la Semaine des Visibilités à Strasbourg. |
-| [Front Runners Strasbourg](https://fr-fr.facebook.com/frontrunnersstrasbourg/) | Club de course à pied LGBTI et leurs amis de la région strasbourgeoise. |
 | [HES](https://www.facebook.com/HES-Strasbourg-191284717578050/) | Homosexualité et Socialisme |
-| [Juragai](http://www.juragai.ch/) | Association homosexuelle mixte de l'Arc jurassien (Suisse) |
+| [Hêtre](https://asso-hetre.fr/) | Centre LGBTI de Mulhouse et ses environs. Accueil, écoute, accompagnement pour les LGBTQI |
 | [La Nouvelle Lune](http://lanouvellelune.org/) | La nouvelle lune participe à la lutte contre les discriminations et atteintes aux droits des femmes et des lesbiennes. Elle organise des rencontres conviviales, culturelles, militantes... Elle est ouverte à toute personne se définissant comme femme et intéressée par l’association. Sa gestion, de type collégial, permet de valoriser les motivations et l’implication du plus grand nombre d’adhérentes. |
-| [L'Hêtre](http://associationlhetre.com/) | Centre LGBTI de mulhouse et ses environs. Accueil, écoute, accompagnement pour les LGBTQI. |
-| [Mobilisnoo](http://www.mobilisnoo.org/) | Association nationale des salarié-e-s LGBT du Groupe France Telecom/Orange et de leurs ami-e-s. |
 | [Pélicanto](http://www.pelicanto.org/) | Chœur gay et lesbien et leurs amis d’Alsace. |
-| [Le Refuge](https://www.facebook.com/LeRefugeBasRhin/) | Agit contre l'isolement des jeunes. Hébergement temporaire et accompagnement psychologique et social. |
-| [SOS Homophobie](https://www.facebook.com/SOShAlsace/) | Association nationale de lutte contre la lesbophobie, la gayphobie, la biphobie et la transphobie. Ligne d'écoute anonyme : 01 48 06 42 41 ou 0810 108 135 depuis un fixe. |
-| [STS](http://www.sts67.org/) | Support Transgenre Strasbourg |
+| [Phare du Rhin](https://lepharedurhin.com/fr/) | Association étudiante œuvrant dans l’action sociale et culturelle, proposant des cours de français et des permanences administratives d'accueil. |
+| [PRISME](https://www.facebook.com/Association_PRISME-103870901535693/) | Professionnel-le-s Intersectionnel-le-s de la Santé Mentale Engagé-e-s. Association de professionnel-le-s du domaine de la santé mentale, qui proposent des groupes de parole et des formations en lien avec des thématiques LGBT+. |
+| [SOGI Sexual Orientation and Gender Identity Unit](http://www.coe.int/t/dg4/lgbt/default_fr.asp) | Section LGBT du Conseil de l'Europe. |
+| [SOS Hepatites](http://alsace.lorraine.soshepatites.fr/) | Association de lutte, de soutien et d'accompagnement des malades atteint-e-s d'hépatites et de maladies du foie |
 
 ---
 
